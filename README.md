@@ -1,0 +1,2 @@
+# WE
+Exercicio 2
